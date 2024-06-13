@@ -1,0 +1,156 @@
+
+
+
+
+/* NAVBAR SECTION */
+
+.navbar-brand {
+    text-align: center;
+    margin-right: 35%;
+}
+
+/* HERO SECTION */
+
+h1 {
+    width: 80%;
+}
+.hero-container {
+    padding: 10% 10% 20% 5%;
+    background-image: url('dinning.jpg');
+    background-size: cover;
+}
+.hero-inner-container {
+    padding: 5% 10% 4% 10%;
+    background-color: antiquewhite;
+    opacity: 0.5;
+}
+.sponsor-img {
+    width: 30%;
+    margin: 5% 5% 5% 5%;
+}
+.sponsor-div {
+    text-align: center;
+    margin-top: 15%;
+}
+.about-us-container {
+    margin-top: 20%;
+    text-align: center;
+}
+.about-us-img-container {
+    position: relative;
+}
+.abt-img1 {
+    border-radius: 20px;
+}
+.abt-img2 {
+    border-radius: 20px;
+    position: absolute;
+    bottom: 45%;
+    right: 30%;
+    left: 40%;
+}
+
+/* FEATURES SECTION */
+
+.features-container {
+    margin-top: 20%;
+}
+
+.feature-inner-container {
+    margin: 0 auto 0 auto;
+    text-align: center;
+    width: 70%;
+}
+
+.carousel {
+    margin-top: 20%;
+}
+
+.carousel-inner {
+    padding: 10%;
+    text-align: center;
+    box-shadow: 5px 5px 10px #000;
+}
+
+/* PRODUCT CONTAINER */
+
+.product-container {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto 0 auto;
+    margin-top: 20%;
+}
+.product-img {
+    margin: 0 auto 0 auto;
+    padding: 10%;
+}
+.product-container2 {
+    padding: 10%;
+}
+.pc-p {
+    display: inline;
+    margin-right: 25%;
+}
+.product-btn {
+    width: 100%;
+}
+
+/* REVIEW SECTION */
+.review-section-div {
+    text-align: center;
+}
+.review-img {
+    border-radius: 50%;
+    float: left;
+    margin: 5%;
+}
+.review-p {
+    margin-top: 10%;
+}
+.review-carousel {
+    text-align: left;
+}
+
+/* CTA SECTION */
+.cta-div {
+    text-align: center;
+    margin: 20% 20%;
+
+}
+.cta-form{
+    text-align: center;
+    margin-top: 20%;
+}
+.cta-field {
+    border: 1px solid white;
+    border-radius: 20px;
+    font-size: 26px;
+    background-color: antiquewhite;
+    margin-top: 5%;
+    width: 80%;
+}
+.cta-btn {
+    margin-top: 5%;
+}
+
+/* FOOTER SECTION */
+.footer-h1 {
+    text-align: center;
+}
+.footer-div {
+    padding: 10% 10%;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-top: 20%;
+}
+.footer-ul {
+    display: block;
+    list-style-type: none;
+}
+.footer-a {
+    text-decoration: none;
+    color: dimgrey;
+}
+.footer-a:hover {
+    color: #000;
+}
